@@ -10,12 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-espressif8266.git"
+    "url": "https://github.com/TD-er/platform-espressif8266.git"
   },
   "version": "1.5.0",
   "packageRepositories": [
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
+    "https://td-er.nl/ESPeasy/manifest.json",
     "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json",
     "https://raw.githubusercontent.com/yanbe/framework-esp8266-rtos-sdk/master/manifest.json",
     "https://raw.githubusercontent.com/sanderv32/framework-esp8266-nonos-sdk/master/manifest.json"
@@ -46,7 +47,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "~1.20300.1"
+      "version": "1.20300.1-puya"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
