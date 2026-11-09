@@ -35,8 +35,8 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "owner": "tasmota",
-      "version": "https://github.com/tasmota/Arduino/archive/gcc153.zip"
+      "owner": "TD-er",
+      "version": "https://github.com/TD-er/Arduino/archive/gcc153_ESPEasy.zip"
     },
     "tool-esptoolpy": {
       "type": "uploader",
